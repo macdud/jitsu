@@ -1,0 +1,45 @@
+body{
+
+    font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+ 
+    
+}
+
+.item-list
+{
+       color:white;
+       margin-left:auto;
+       margin-right:auto;
+       text-align:center;
+       background-color: blue;
+       width:auto;
+       cursor: pointer;
+}
+
+#roomList
+{
+    
+    float:left;
+    background-color:yellow;
+    border-style:solid;
+    border-width:2px;
+    padding:1%;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: moz-none;
+    -ms-user-select: none;
+    user-select: none;
+    cursor: default;
+    
+}
+
+.smallHeader
+{
+    color:blue;
+    margin-left:auto;
+    margin-right:auto;
+    text-align:center;
+    text-shadow: black 0.1em 0.1em 0.2em;
+  
+}
